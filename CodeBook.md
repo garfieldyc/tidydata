@@ -18,6 +18,7 @@ This code book summarizes the resulting data from `tidy.txt`.
 ## Measurements
   Mean shows the average of measurements. 
   Std shows the standard deviation of measurements
+  There are 79 types of measurements as listed below.
 * `tBodyAccMeanX`
 * `tBodyAccMeanY`
 * `tBodyAccMeanZ`
